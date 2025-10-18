@@ -1,1 +1,1 @@
-Git Coomand for DevOps.
+Git Commands for DevOps.
