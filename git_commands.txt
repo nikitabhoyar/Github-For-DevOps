@@ -1,0 +1,16 @@
+git status
+git rm --cached .\Testing.py
+git status
+git add .\Testing.py
+git status
+git commit -m .\Testing.py
+clear
+git status
+git commit -m file added
+git commit -m "Files added"
+git config --global "nikitabhoyar99@gmail.com"
+git config --global user.email "nikitabhoyar99@gmail.com"
+git config --global user.name "Nikita Bhoyar"
+git status
+git commit -m "Files added"
+git status
